@@ -90,4 +90,4 @@ fahrenheitlink.addEventListener("click", displayFahrenheitTemperature);
 let celsiuslink = document.querySelector("#celsius-link");
 celsiuslink.addEventListener("click", displayCelsiusTemperature);
 
-search("New York");
+search("Geelong");
